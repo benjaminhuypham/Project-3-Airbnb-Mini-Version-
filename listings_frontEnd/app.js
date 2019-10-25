@@ -1,6 +1,4 @@
 listings_url = "http://localhost:3000/listings"
-hosts_url = "http://localhost:3000/hosts"
-guests_url = "http://localhost:3000/guests"
 reservations_url = "http://localhost:3000/reservations"
 
 fetch(listings_url)
